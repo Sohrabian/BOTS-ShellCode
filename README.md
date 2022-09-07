@@ -7,9 +7,14 @@ and BoTs/v1/v2/v3 has DataSet for your examine as his guide Downlaod DataSet Att
 #### Notice: Trace each of line shell script, don't let curl compromise (Botnet Alert).
 
 #### Official Splunk Boss Of The SOC DataSet
-BOTS-v1 https://github.com/splunk/botsv1
-BOTS-v2 https://github.com/splunk/botsv2
-BoTs-v3 https://github.com/splunk/botsv3
+##### BOTS-v1 https://github.com/splunk/botsv1
+##### BOTS-v2 https://github.com/splunk/botsv2
+##### BoTs-v3 https://github.com/splunk/botsv3
+
+#### Mega.nz Bots app/add-on links
+##### Bots-v1 : https://mega.nz/folder/dNxnHaRJ   KEY: LrehmLVeu_4PDMSA5BzplA
+##### Bots-v2 : https://mega.nz/folder/MAxiDAzC   KEY: GNyNahvhzQKxG564114YsA
+##### Bots-v3 : https://mega.nz/folder/0YJCQI4L   KEY: 07wmFs9EAn_iHZMydROnGw
 
 ### . BoTs-v3 -Installation Guide
 For your Installation and use CTF challenge use this repo https://github.com/runasroot/BOTSv3_install based on this https://run-as-root.com/2021/06/08/splunk-botsv3-install-and-configuration/ article written in 2021. The install-botsv3.sh is better than installation of detection lab repo as following. I suggest Read and Take his
